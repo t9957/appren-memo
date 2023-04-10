@@ -6,5 +6,5 @@ def greeting(name)
   printf 'おはよう、%s！',name
 end
 
-hello
-greeting '成田'
+# hello
+# greeting '成田'
