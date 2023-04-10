@@ -3,8 +3,8 @@ def hello
 end
 
 def greeting(name)
-  puts "おはよう、#{name}！"
+  printf 'おはよう、%s！',name
 end
 
-hello()
+hello
 greeting '成田'
