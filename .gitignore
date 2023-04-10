@@ -1,0 +1,20 @@
+# from template
+tempCodeRunnerFile.*
+*.log
+/bin/
+/.settings/
+/.metadata/
+/.DS_Store
+/.classpath
+# end template
+
+# from candedate
+temp
+temp.*
+/jar/
+/Servers/
+/log.tsv
+/log.txt
+/chromedriver.exe
+/output.tsv
+# end candedate
