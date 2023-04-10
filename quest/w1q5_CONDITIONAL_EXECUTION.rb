@@ -33,7 +33,7 @@ end
 # train_fare(6)
 # train_fare(5)
 
-xor(true, true)
-xor(true, false)
-xor(false, true)
-xor(false, false)
+# xor(true, true)
+# xor(true, false)
+# xor(false, true)
+# xor(false, false)
